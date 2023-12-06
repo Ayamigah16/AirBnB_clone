@@ -1,4 +1,4 @@
-Airbnb Clone Project
+# Airbnb Clone Project
 This project is an Airbnb clone, a vacation rental platform that allows users to list, discover, and book accommodations around the world.
 The goal is to replicate key features of the Airbnb platform, providing a similar experience.
 
