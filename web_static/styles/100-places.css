@@ -1,0 +1,40 @@
+.amenities,
+.reviews {
+    margin-top: 40px;
+}
+
+.amenities h2,
+.reviews h2 {
+    font-size: 16px;
+    border-bottom: 1px solid #DDDDDD;
+    padding-bottom: 5px;
+}
+
+.amenities ul,
+.reviews ul {
+    list-style: none;
+    padding: 0;
+}
+
+.amenities li,
+.reviews li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.amenities li::before,
+.reviews li::before {
+    content: '\2022'; /* Bullet point character */
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.reviews h3 {
+    font-size: 14px;
+}
+
+.reviews p {
+    font-size: 12px;
+    margin: 0;
+}
